@@ -1,1 +1,1 @@
-Komentarze w HTMLu
+Komentarze w HTMLu i CSSie
