@@ -1,0 +1,1 @@
+Znaki nowej linii i akapity
