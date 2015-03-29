@@ -1,1 +1,1 @@
-Hiper³¹cza
+Pseudoklasy

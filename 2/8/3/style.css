@@ -1,0 +1,12 @@
+h1{
+color:#3366ff;
+}
+h1:hover{
+color:#0033ff;
+}
+a{
+color:black;
+}
+a:visited{
+color:red;
+}
