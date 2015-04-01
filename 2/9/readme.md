@@ -1,1 +1,1 @@
-Inne znaczniki: <sup>, <sub>, <abbr>, <del>, <ins>
+Inne znaczniki: `<sup>`, `<sub>`, `<abbr>`, `<del>`, `<ins>`
