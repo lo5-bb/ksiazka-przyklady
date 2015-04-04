@@ -1,0 +1,1 @@
+Czy da siê zrobiæ ten sam element innymi stylami?
