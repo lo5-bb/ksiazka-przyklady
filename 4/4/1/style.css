@@ -8,7 +8,7 @@ h1
   /* stała pozycja względem górnej krawędzi strony */
   position: absolute;
   top: 15px;
-  margin-left: 500px;
+  margin-left: 30%;
 }
 
 div
@@ -36,7 +36,7 @@ div
 
 img
 {
-  height: 800px;
+  height: 500px;
 }
 
 a
