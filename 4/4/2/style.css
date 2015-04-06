@@ -35,8 +35,8 @@ body
   /* zawsze pod naglowkiem */
   position: absolute;
   top: 40px;  
-  left: 0px; 
-  width: 100%;
+  right: 0px; 
+  width: 1000px;
   /* pod spodem */
   z-index: 0;
 }
