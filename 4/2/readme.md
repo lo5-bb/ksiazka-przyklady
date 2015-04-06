@@ -1,0 +1,1 @@
+Atrybut alt
