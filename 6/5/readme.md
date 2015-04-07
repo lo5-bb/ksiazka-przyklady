@@ -1,0 +1,1 @@
+£¹czenie komórek i wierszy

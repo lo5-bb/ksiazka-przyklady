@@ -2,3 +2,7 @@ table{
 border:1;
 width:100%;
 }
+caption{
+color:red;
+font-size:200%;
+}

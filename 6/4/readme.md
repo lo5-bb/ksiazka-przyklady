@@ -1,1 +1,1 @@
-Nag³ówki
+Znacznik '<caption>'
