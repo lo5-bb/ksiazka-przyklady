@@ -1,0 +1,1 @@
+Atrybuty 'border' i 'width'
