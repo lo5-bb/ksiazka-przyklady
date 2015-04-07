@@ -1,0 +1,9 @@
+#wstep{
+border:3px solid #0066ff;
+border-radius:25px;
+}
+#rozwiniecie{
+border:5px solid #66ff00;
+border-top-right-radius:25px;
+border-bottom-right-radius:15px;
+}

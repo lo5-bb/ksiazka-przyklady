@@ -1,0 +1,1 @@
+Cechy 'width' i 'height'
