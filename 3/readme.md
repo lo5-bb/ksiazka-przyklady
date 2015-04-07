@@ -1,0 +1,1 @@
+Klasy, identyfikatory i znaczniki: '<div>' i '<span>'
