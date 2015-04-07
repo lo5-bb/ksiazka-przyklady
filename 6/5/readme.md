@@ -1,1 +1,1 @@
-£¹czenie komórek i wierszy
+'first-child' i 'nth-child'

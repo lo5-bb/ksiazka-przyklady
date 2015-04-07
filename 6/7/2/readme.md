@@ -1,0 +1,1 @@
+Wyœrodkowanie w komórkach scalonych
