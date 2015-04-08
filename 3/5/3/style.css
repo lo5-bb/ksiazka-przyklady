@@ -1,11 +1,12 @@
-#wstep{
-border:3px solid #0066ff;
-border-radius:25px;
-margin:10px; /*Wszystkie marginesy po 10px*/
+#wstep {
+	border: 3px solid #0066ff;
+	border-radius: 25px;
+	margin: 10px; /*Wszystkie marginesy po 10px*/
 }
-#rozwiniecie{
-border:5px solid #66ff00;
-border-top-right-radius:25px;
-border-bottom-left-radius:15px;
-margin: 0px 10px 10px; /*Górny margines 0px, lewy i prawy 10px, dolny 10px*/
+
+#rozwiniecie {
+	border: 5px solid #66ff00;
+	border-top-right-radius: 25px;
+	border-bottom-left-radius: 15px;
+	margin: 0px 10px 10px; /*Górny margines 0px, lewy i prawy 10px, dolny 10px*/
 }
