@@ -1,23 +1,29 @@
-table{
-border:1;
-width:100%;
+table {
+	border: 1;
+	width: 100%;
 }
-caption{
-color:red;
-font-size:200%;
+
+caption {
+	color: red;
+	font-size: 200%;
 }
-th{
-background:#FF0;
+
+th {
+	background: #FF0;
 }
-td{
-text-align:center;
+
+td {
+	text-align: center;
 }
-td:first-child{
-background:#FF0;
+
+td:first-child {
+	background: #FF0;
 }
+
 tr:nth-child(even) {
-background: #CCC
+	background: #CCC
 }
-tr:nth-child(odd){
-background: #FFF
+
+tr:nth-child(odd) {
+	background: #FFF
 }
