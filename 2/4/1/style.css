@@ -1,13 +1,15 @@
-h1{
+h1 {
 	font-family: "Verdana";
 	font-style: italic;
 	font-size: 30px;
 }
-h2{
-	font-family: "Georgia"
-	font-style: oblique;
+
+h2 {
+	font-family: "Georgia";
+	font-style : oblique;
 }
-p{
-	font-family: "Arial"
-	font-style: normal;
+
+p {
+	font-family: "Arial";
+	font-style : normal;
 }
