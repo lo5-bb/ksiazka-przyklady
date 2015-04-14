@@ -1,58 +1,59 @@
 body
 {
-  width: 100%;
+width: 100%;
 }
 
 h1
 {
-  /* stała pozycja względem górnej krawędzi strony */
-  position: absolute;
-  top: 15px;
-  margin-left: 30%;
+/* stała pozycja względem górnej krawędzi strony */
+position: absolute;
+top: 15px;
+margin-left: 30%;
+width: 40%;
 }
 
 div
 {
-  /* elementy mogą zmieniać swoją pozcyję, ale nie ma to wpływu na resztę strony */
-  position: relative;
-  padding-top: 80px;
+/* elementy mogą zmieniać swoją pozcyję, ale nie ma to wpływu na resztę strony */
+position: relative;
+padding-top: 100px;
 }
 
 #zgoda
 {
-  /* każdy element ma swoje miejsce */
-  position: static;
-  float: left;
-  padding-left: 150px;
+/* każdy element ma swoje miejsce */
+position: static;
+float: left;
+padding-left: 50px;
 }
 
 #niezgoda
 {
-  /* każdy element ma swoje miejsce */
-  position: static;
-  float: right;
-  padding-right: 150px;
+/* każdy element ma swoje miejsce */
+position: static;
+float: right;
+padding-right: 50px;
 }
 
 img
 {
-  height: 500px;
+height: 500px;
 }
 
 a
 {
-  /* stałe miejsce na ekranie, nie przesuwa się z resztą elementów -*/
-  position: fixed;
-  bottom: 20px;
-  font-size: 40px;
+/* stałe miejsce na ekranie, nie przesuwa się z resztą elementów -*/
+position: absolute;
+top: 20px;
+font-size: 40px;
 }
 
 #zgoda a
 {
-  left: 20px;
+  left: 2%;
 }
 
 #niezgoda a
 {
-  right: 20px;
+  right: 2%;
 }
