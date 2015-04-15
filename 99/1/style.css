@@ -1,0 +1,36 @@
+.color-name {
+	background: red;
+}
+
+.color-hex {
+	background: #cc0000;
+}
+
+.color-rgb {
+	background: rgb(180, 0, 0);
+}
+
+.color-rgba {
+	background: rgba(180, 0, 0, .5);
+}
+
+.color-hsl {
+	background: hsl(341, 100%, 34%);
+}
+
+.color-hsla {
+	background: hsla(341, 100%, 34%, .5);
+}
+
+
+
+body {
+	background: #fff url(img/background-1.png);
+}
+
+.color {
+	width: 60px;
+	height: 60px;
+	border-radius: 10px;
+	margin: 0 auto 10px;
+}
