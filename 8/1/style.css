@@ -1,0 +1,15 @@
+.users {
+	max-width: 222px;
+}
+
+.users a {
+	display: block;
+	float: left;
+	margin: 0 10px 10px 0;
+}
+
+.users img {
+	border-radius: 3px;
+	width: 64px;
+	height: 64px;
+}
