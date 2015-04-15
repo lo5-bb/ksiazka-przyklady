@@ -25,18 +25,24 @@ body
 {
   position: absolute;
   top: 30px;
-  right: 150px;
-  font-size: 70px;
+  right: 10%;
+  font-size: 40px;
   color: white;
+  width: 50%;
+}
+
+a
+{
+  text-decoration: none;
 }
 
 #container
 {
   /* zawsze pod naglowkiem */
   position: absolute;
-  top: 40px;  
+  top: 200px;  
   right: 0px; 
-  width: 1000px;
+  width: 500px;
   /* pod spodem */
   z-index: 0;
 }
@@ -50,13 +56,13 @@ body
 #container p
 {
   position: absolute;
-  top: 225px;
-  right: 40px;
+  margin-top: 135px;
+  right: 20px;
   /* na wierzchu */
   z-index: 1;
   color: #663300;
   font-style: italic;
-  font-size: 45px;
+  font-size: 20px;
   font-weight: bold;
   transform: rotate(3deg); 
 }
@@ -66,11 +72,11 @@ body
   /* nie zmieniaj pozycji przy przewijaniu */
   position: fixed;
   top: 200px;
-  left: 160px;
-  width: 400px;
+  right: 200px;
+  width: 50%;
   /* na wierzchu */
   z-index: 1;
   color: white;
   font-weight: bold;
-  font-size: 50px;
+  font-size: 30px;
 }
