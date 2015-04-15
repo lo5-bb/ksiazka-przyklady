@@ -1,1 +1,1 @@
-Cytaty d≥ugie <blockquote>
+Cytaty d≈Çugie `<blockquote>`

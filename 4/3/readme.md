@@ -1,1 +1,1 @@
-Znacznik '<figure>', podpisy obrazków
+Znacznik `<figure>`, podpisy obrazkÃ³w

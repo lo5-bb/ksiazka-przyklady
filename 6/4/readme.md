@@ -1,1 +1,1 @@
-Znacznik '<caption>'
+Znacznik `<caption>`

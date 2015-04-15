@@ -1,1 +1,1 @@
-Cytaty krótkie <q>
+Cytaty krÃ³tkie `<q>`

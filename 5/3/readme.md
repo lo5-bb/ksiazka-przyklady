@@ -1,1 +1,1 @@
-Opisy: '<dl>', '<dt>' i '<dd>' 
+Opisy: `<dl>`, `<dt>` i `<dd>` 

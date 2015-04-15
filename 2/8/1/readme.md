@@ -1,1 +1,1 @@
-Hiper³¹cza <a href="..."/>
+HiperÅ‚Ä…cza `<a href="..."/>`
