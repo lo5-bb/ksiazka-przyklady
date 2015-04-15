@@ -1,18 +1,21 @@
-#form{
-width:80%;
-margin:auto;
-background-color:#efefef;
+#form {
+	width: 80%;
+	margin: auto;
+	background-color: #efefef;
 }
-div{
-width:80%;
-margin:auto;
+
+div {
+	width: 80%;
+	margin: auto;
 }
-.tekst{
-width:100%;
+
+.tekst {
+	width: 100%;
 }
-button{
-margin:auto;
-width:100%;
+
+button {
+	margin: auto;
+	width: 100%;
 }
 
 
