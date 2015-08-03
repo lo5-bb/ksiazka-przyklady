@@ -1,5 +1,5 @@
-<ul>
 <?php foreach(sample::getColors() as $color): ?>
-	<li><div class="color" style="background-color: <?= $color ?>"></div> <?= $color ?></li>
+<p>
+	<span class="color" style="background-color: <?= $color ?>"></span> <?= $color ?>
+</p>
 <?php endforeach; ?>
-</ul>
