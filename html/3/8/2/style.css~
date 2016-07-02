@@ -1,15 +1,11 @@
-p.numer {
-  font-family: Verdana;
+```css
+@font-face {
+   font-family: Vczcionka;
+   src: url('fonts/V.otf');
 }
 
-p.tresc.sin {
-  font-style: italic;
-}
-
-p.tresc.cos {
-  color: blue;
-}
-
-p.tresc.sin.cos {  
-  line-height: 15px;
-}
+p:lang(en) {
+   font-family: Vczcionka;
+   font-style: italic;
+} 
+```
