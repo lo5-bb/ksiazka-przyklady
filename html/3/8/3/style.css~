@@ -1,0 +1,11 @@
+```css
+@font-face {
+   font-family: Vczcionka;
+   src: url('fonts/V.otf');
+}
+
+p:lang(en) {
+   font-family: Vczcionka;
+   font-style: italic;
+} 
+```

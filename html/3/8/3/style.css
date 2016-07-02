@@ -1,0 +1,9 @@
+strong:nth-child(odd) {
+  color: black;
+  background-color: white;
+}
+
+p > strong:nth-last-child(even) {
+  color: white;
+  background-color: black;
+}

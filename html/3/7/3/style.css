@@ -1,0 +1,11 @@
+#naglowek {
+  font-style: italic;
+}
+
+#naglowek ins {
+  color: blue;
+}
+
+p.tresc {
+  color: green;
+}

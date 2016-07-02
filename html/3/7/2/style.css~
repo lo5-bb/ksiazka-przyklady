@@ -1,0 +1,15 @@
+* {
+	font-family: Verdana, serif;
+}
+
+p > ins {
+  	font-style: italic;
+}
+
+strong ~ ins {
+  	color: red;
+}
+
+del + ins {
+  	color: green;
+}

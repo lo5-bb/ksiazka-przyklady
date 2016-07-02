@@ -1,0 +1,15 @@
+p.numer {
+  font-family: Verdana;
+}
+
+p.tresc.sin {
+  font-style: italic;
+}
+
+p.tresc.cos {
+  color: blue;
+}
+
+p.tresc.sin.cos {  
+  line-height: 15px;
+}
