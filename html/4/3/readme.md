@@ -1,1 +1,1 @@
-Znacznik `<figure>`, podpisy obrazków
+Atrybut alt

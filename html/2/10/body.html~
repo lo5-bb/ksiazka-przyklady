@@ -1,0 +1,12 @@
+<h1>Komendy w cmd zaczynająe się na A</h1>
+<code>Append</code> - Pozwala programom otwierał pliki danych w określonych katalogach tak jak w bieżącym katalogu.<br/>
+<code>Arp</code> -  Wyświetla lub modyfikuje tabelę translacji adresów IP do adresów fizycznych używanych przez protokół rozróżniania adresów (ARP).
+<br/>
+<code>Assoc</code> - Wyświetla lub modyfikuje skojarzenia rozszerzeń plików.<br/>
+<code>Asr_fmt</code> - Automatyczne odzyskiwanie systemu.<br/>
+<code>Asr_ldm</code> - Manager dysków logiczny<br/>
+<code>AT</code> -  Polecenia i programy usługi planowania poleceń AT do uruchomienia na komputerze o określonej godzinie i dacie. Usługa Harmonogram musi być uruchomiona, aby używać poleceń AT.
+<br/>
+<code>Atmadm</code> - Statystyki Menedżera wywołań ATM systemu Windows.<br/>
+<code>Attrib</code> - Wyświetla lub zmienia atrybuty plików.<br/>
+<code>Auditusr</code> - Ustawia zasady inspekcji dla poszczególnych użytkowników.<br/>

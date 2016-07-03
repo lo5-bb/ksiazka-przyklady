@@ -1,11 +1,9 @@
-```css
 @font-face {
-   font-family: Vczcionka;
-   src: url('fonts/V.otf');
+   font-family: myFont;
+   src: url('fonts/Oswald.ttf');
 }
 
 p:lang(en) {
-   font-family: Vczcionka;
-   font-style: italic;
-} 
-```
+   font-family: myFont;
+   font-style: italic; 
+}

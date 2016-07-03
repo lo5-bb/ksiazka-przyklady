@@ -1,0 +1,4 @@
+<p style="text-decoration: underline">tekst podkreślony</p>
+	<p style="text-decoration: overline">linia nad tekstem</p>
+	<p style="text-decoration: line-through">tekst przekreślony</p>
+	<p style="text-decoration: underline overline">tekst z linią nad i pod tekstem</p>

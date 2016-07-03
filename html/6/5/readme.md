@@ -1,1 +1,1 @@
-'first-child' i 'nth-child'
+Znacznik `<caption>`

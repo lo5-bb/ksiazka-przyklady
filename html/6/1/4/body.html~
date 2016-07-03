@@ -1,0 +1,17 @@
+<table>
+   <tr>
+      <td></td>
+      <th>Poniedziałek</th>
+      <th>Wtorek</th>
+   </tr>
+   <tr>
+      <th>Wydałem:</th>
+      <td>25zł</td>
+      <td>12zł</td>
+   </tr>
+   <tr>
+      <th>Zarobiłem:</th>
+      <td>0zł</td>
+      <td>50zł</td>
+   </tr>
+</table>

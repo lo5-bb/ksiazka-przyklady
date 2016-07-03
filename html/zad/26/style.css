@@ -1,0 +1,17 @@
+table {
+   width: 600px;
+}
+
+th, td {
+   padding: 10px;
+}
+
+th {
+   text-transform: uppercase;
+   border-bottom: 2px solid #111111;
+   text-align: left;
+}
+
+tr:hover {
+   background-color: #99eeee;
+}

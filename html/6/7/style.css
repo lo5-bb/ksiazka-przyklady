@@ -1,0 +1,29 @@
+table {
+	border: 1;
+	width: 100%;
+}
+
+caption {
+	color: red;
+	font-size: 200%;
+}
+
+th {
+	background: #FF0;
+}
+
+td {
+	text-align: center;
+}
+
+td:first-child {
+	background: #FF0;
+}
+
+tr:nth-child(even) {
+	background: #CCC
+}
+
+tr:nth-child(odd) {
+	background: #FFF
+}

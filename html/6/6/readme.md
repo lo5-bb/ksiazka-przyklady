@@ -1,1 +1,1 @@
-Cecha 'text-align'
+'first-child' i 'nth-child'
